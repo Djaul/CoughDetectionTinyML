@@ -1,7 +1,7 @@
 # CoughDetectionTinyML
-Simplified cough detection with Arduino BLE 33 Sense Dev Board. 
+Simple cough detection with Arduino BLE 33 Sense Dev Board. 
 
-TinyML with EloquentTinyML library is used in this project. 
+TinyML with EloquentTinyML library is used. 
 
 This project setup is aimed for continuous cough monitoring during the day. The user can estimate their cough frequency by observing the RGB LED. 
 
